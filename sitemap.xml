@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>None</loc>
-     <lastmod>2019-05-02</lastmod>
+     <loc>https://squidfunk.github.io/mkdocs-material/</loc>
+     <lastmod>2019-05-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2019-05-02</lastmod>
+     <loc>https://squidfunk.github.io/mkdocs-material/Text Extraction/</loc>
+     <lastmod>2019-05-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2019-05-02</lastmod>
+     <loc>https://squidfunk.github.io/mkdocs-material/VSM/</loc>
+     <lastmod>2019-05-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2019-05-02</lastmod>
+     <loc>https://squidfunk.github.io/mkdocs-material/Tf-idf/</loc>
+     <lastmod>2019-05-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2019-05-02</lastmod>
+     <loc>https://squidfunk.github.io/mkdocs-material/Preprocessing/</loc>
+     <lastmod>2019-05-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2019-05-02</lastmod>
+     <loc>https://squidfunk.github.io/mkdocs-material/Clustering/</loc>
+     <lastmod>2019-05-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/PageRank/</loc>
+     <lastmod>2019-05-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
